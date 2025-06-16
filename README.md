@@ -1,4 +1,4 @@
-# SIT Bank App
+# 💰💵 SIT Bank App
 Created by Pratham Agrawal as a part of Edunet Training
 
 [![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io)
