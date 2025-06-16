@@ -1,8 +1,9 @@
 # SIT Bank App
 Created by Pratham Agrawal as a part of Edunet Training
 
-Deployed At
-Streamlit Link :- https://sitbankapp-pratham.streamlit.app/
+[![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io)
+
+🔗 *Live App*: [Click here to use Sit Bank](https://sitbankapp-pratham.streamlit.app/)
 
 | Interface           | Screenshot |
 |---------------------|------------|
