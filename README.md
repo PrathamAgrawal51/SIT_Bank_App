@@ -7,7 +7,7 @@ Created by Pratham Agrawal as a part of Edunet Training
 
 | Interface           | Screenshot |
 |---------------------|------------|
-| 🏠 Home Page         | ![Home Page](https://github.com/PrathamAgrawal51/SIT_Bank_App/blob/56503a1b730c3846ff23fe977dbe2a01efee5206/Screenshot%202025-06-16%20103832.png) |
+| 🏠 Home Page         | ![Home Page](https://github.com/PrathamAgrawal51/SIT_Bank_App/blob/56503a1b730c3846ff23fe977dbe2a01efee5206/home_page.png) |
 
 
 ## Project Overview
