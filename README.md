@@ -1,5 +1,8 @@
-# SIT Bank Documentation
+# SIT Bank App
 Created by Pratham Agrawal as a part of Edunet Training
+
+Deployed At
+Streamlit Link :- https://sitbankapp-pratham.streamlit.app/
 
 ## Project Overview
 The SIT Bank project is a simple banking application that allows users to create bank accounts, deposit and withdraw funds, check balances, and calculate interest for savings accounts. The application is structured into a modular format, making it easy to maintain and extend.
