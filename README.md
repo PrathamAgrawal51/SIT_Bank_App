@@ -6,7 +6,7 @@ Streamlit Link :- https://sitbankapp-pratham.streamlit.app/
 
 | Interface           | Screenshot |
 |---------------------|------------|
-| 🏠 Home Page         | ![Home Page](your-image-link-here) |
+| 🏠 Home Page         | ![Home Page]((https://github.com/PrathamAgrawal51/SIT_Bank_App/blob/56503a1b730c3846ff23fe977dbe2a01efee5206/Screenshot%202025-06-16%20103832.png) |
 
 
 ## Project Overview
